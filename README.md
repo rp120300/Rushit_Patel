@@ -1,0 +1,2 @@
+# Rushit_Patel
+Current my Visa Process of NZ is going on.Its been a long time approx 5 months and it is will being being processed .So I was idle during this time period.So I decided to avail some online tutorial classes on HTML,HTML5 and CSS through a website known as freecodecamp. This is a website which gives free tutorials.So i availed those tutorials for like 2 months and started making websites on my own.Gradually as the time passed I pretty much covered almost all the topics and have created this website.Thats is the website of a Restaurant.
